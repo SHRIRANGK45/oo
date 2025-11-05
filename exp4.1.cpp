@@ -49,9 +49,9 @@ public:
 
 int main() 
 {
-    cout << "Name -: Suyash nikam" << endl;
+    cout << "Name -: Shrirang kulkarni" << endl;
     cout << "Div  -: B" << endl;
-    cout << "Roll No -: 23" << endl;
+    cout << "Roll No -: 125" << endl;
     cout << "---------------------------" << endl << endl;
 
     Rectangle rect(4.0, 40.0);
