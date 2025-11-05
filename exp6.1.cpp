@@ -75,9 +75,9 @@ int main()
 {
     int cnt;
 
-    cout << "Name -: Suyash Vijaykumar Kumbhar" << endl;
+    cout << "Name -: Suyash nikam" << endl;
     cout << "Div  -: B" << endl;
-    cout << "Roll No -: 12" << endl;
+    cout << "Roll No -: 23" << endl;
     cout << "------------------------------------" << endl;
 
     cout << "\n Enter No. of Students You Want: ";
